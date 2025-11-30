@@ -41,7 +41,7 @@ The system detects:
 - If the user rejects all, a “reject” cookie is still set (so the modal won’t appear again)
 
 
-## 💻 Technologies Used
+## Technologies Used
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (ES Modules)**  
