@@ -16,6 +16,13 @@ body {
     backdrop-filter: brightness(0.7);
 }
 
+.hero-content {
+    max-width: 700px;      
+    margin: 0 auto;        
+    padding: 0 20px;      
+    text-align: center;    
+}
+
 .modal {
     border: none;
     padding: 25px;
