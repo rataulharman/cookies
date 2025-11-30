@@ -1,0 +1,18 @@
+@charset "utf-8";
+@import "./reset.css";
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+}
+
+/* HERO SECTION */
+.hero {
+    height: 100vh;
+    background-color: rgb(16, 16, 60);
+    color: white;
+    text-align: center;
+    padding-top: 40vh;
+    backdrop-filter: brightness(0.7);
+}
