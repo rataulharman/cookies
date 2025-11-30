@@ -1,8 +1,7 @@
 # Assignment 2 – Working With Cookies   
 
 ## Overview  
-This project demonstrates how to use **cookies** in a web application to store user information.  
-When the page loads, the system checks if cookies already exist. If not, a cookie consent dialog appears with options to **Accept All** or choose **Cookie Settings**.
+This project demonstrates how to use **cookies** in a web application to store user information.  When the page loads, the system checks if cookies already exist. If not, a cookie consent dialog appears with options to **Accept All** or choose **Cookie Settings**.
 The goal of the assignment is to understand how cookies store temporary information and how users can control what data is saved.
 This project also demonstrates how to work with browser objects such as navigator and screen to detect device information.
 
@@ -14,7 +13,8 @@ Users can decide whether they want to store:
 All cookies expire within **15–20 seconds**, which allows the application to be tested quickly.
 
 ## Link
-Here is the link for the website:- 
+Here is the link for the website:- https://rataulharman.github.io/cookies/
+
 
 
 ## Features
